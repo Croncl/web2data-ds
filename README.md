@@ -68,5 +68,3 @@ A plataforma do X (Twitter) hoje é baseada altamente em travas comportamentais 
 Se isso ocorrer sempre use conexões diferentes e espere a suspensão dos "limits exceeded" dissipar.
 
 ***
-
-Espero que seja útil pra o registro dos seus avanços! Me diga se quiser enfatizar mais alguma parte ou adicionar a explicação de outras funções se precisar criar mais de um documento de apoio!
