@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dados (proteger extrações)
+data/raw/*.csv
+data/processed/*.csv
+*.xlsx
+
+# Logs
+*.log

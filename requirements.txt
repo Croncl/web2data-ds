@@ -1,0 +1,5 @@
+pandas
+pysentimiento
+tqdm
+nltk
+openpyxl
