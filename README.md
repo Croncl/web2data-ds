@@ -1,6 +1,4 @@
-Com base em tudo o que configuramos no código do seu projeto de Data Science, aqui está um template bem completo e chamativo de `README.md` que você pode adicionar direto ao GitHub do seu repositório:
 
-***
 
 # X (Twitter) Web Scraper Avançado 🚀
 
